@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amanda Camille</h1>
+<h1 align="center">Oii 👋, Meu nome é Amanda Camille</h1>
 <h3 align="center">✨ sou fã de tecnologia e estou em busca de novos aprendizados na área :)</h3>
 
 - 💻 Atualmente estou cursando **ciência da computação - 2/4**
